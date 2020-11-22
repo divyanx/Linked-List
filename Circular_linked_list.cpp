@@ -362,26 +362,7 @@ class Circular_list{
 
 
 int main(){
-    // Circular_list<int> n;
-    // n.push_front(5);
-    // n.push_front(10);
-    // n.push_front(3);
-    // n.push_front(3);
-    // n.push_front(5);
-    // Circular_list<int>::const_iterator a = n.begin();
-    // do{
-    //     cout << *(a++) <<"  ";
-        
-    // }
-    // while(a!=n.begin());
-    // n.erase(3);
-    // cout << "-------------------" << endl;
-    // Circular_list<int>::const_iterator b = n.begin();
-    //  do{
-    //     cout << *(b++) <<endl;
-        
-    // }
-    // while(b!=n.begin());
+    
     //creating a linked list for ints;
     Circular_list<int> cl1;
     //pushing elemnts just beside the oldest element and newest elemet
